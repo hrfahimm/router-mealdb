@@ -1,0 +1,23 @@
+.meals {
+	display: grid;
+
+	grid-gap: 1rem;
+	grid-template-columns: auto auto auto;
+
+	margin: 15px 15px;
+}
+.search {
+	border: 3px solid black;
+	background-color: aqua;
+	padding: 30px 10px;
+	border-radius: 10px;
+}
+.search input {
+	background-color: white;
+	color: black;
+	padding: 10px;
+	text-decoration: none;
+	border: 1px solid black;
+	border-radius: 10px;
+	font-weight: bold;
+}

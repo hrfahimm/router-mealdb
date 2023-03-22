@@ -1,0 +1,14 @@
+.header {
+	background-color: aqua;
+	padding: 30px 10px;
+}
+.header .link {
+	background-color: white;
+	color: black;
+	margin: 20px;
+	padding: 10px;
+	text-decoration: none;
+	border: 2px solid black;
+	border-radius: 5px;
+	font-weight: bolder;
+}
